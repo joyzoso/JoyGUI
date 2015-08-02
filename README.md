@@ -1,2 +1,2 @@
 # JoyGUI
-A simple drill creating a GUI with wxPython
+Simple drills creating a GUI with wxPython
