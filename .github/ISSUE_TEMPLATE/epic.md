@@ -2,7 +2,7 @@
 name: Epic
 about: Parent card of an Epic
 title: Epic title
-labels: ''
+labels: 'Epic: PARENT'
 assignees: ''
 
 ---
